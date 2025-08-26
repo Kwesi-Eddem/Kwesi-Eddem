@@ -1,16 +1,37 @@
-## Hi there 👋
+## 
 
-<!--
-**Kwesi-Eddem/Kwesi-Eddem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer. ALX Software Engineering learner. .NET enthusiast.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in efficiency and what it takes to achieve it.
+Systems architect... has a nice ring to it.
+
+## Interests
+
+- Backend development
+- Systems design
+- Infrastructure
+- Automation
+- Resource optimization
+- Mobile & Desktop application development
+- Railway infrastructure
+
+## Tools & Languages (still learning)
+
+-  C#(ASP.NET,MAUI)--->Python(learning)--->everything else, in that order
+
+## Projects
+
+- ...I'll let you know when I cook something worthwhile.
+
+## Learning
+
+- Systems architecture
+- Distributed systems
+- CI/CD pipelines
+- Cloud infrastructure
+
+## Contact
+- LinkedIn: linkedin.com/in/tsedeyedem )
+
