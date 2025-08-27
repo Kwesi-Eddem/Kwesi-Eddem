@@ -1,4 +1,4 @@
-## NB - this information is canon as of today.
+## NB - this information is canon as of 27/8/25.
 
 Aspiring software chef. current ALX Software Engineering learner. .NET enthusiast.
 
