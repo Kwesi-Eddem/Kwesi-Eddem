@@ -1,4 +1,4 @@
-## 
+## This information is canon.
 
 Aspiring software chef. current ALX Software Engineering learner. .NET enthusiast.
 
@@ -32,6 +32,5 @@ Systems architect... has a nice ring to it.
 - CI/CD pipelines
 - Cloud infrastructure
 
-## Contact
-- LinkedIn: linkedin.com/in/tsedeyedem )
+
 
