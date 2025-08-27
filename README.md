@@ -1,6 +1,6 @@
 ## 
 
-Backend developer. ALX Software Engineering learner. .NET enthusiast.
+Aspiring software chef. current ALX Software Engineering learner. .NET enthusiast.
 
 ## About
 
