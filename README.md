@@ -1,10 +1,15 @@
-## About
+# About Me:
 
-Interested in efficiency and what it takes to achieve it.
+Backend developer focused on systems, architecture, and reliability. Currently enrolled in the ALX Software Engineering program.
 
+## Skills & Tools
 
+- Languages: C#, Python, Bash, HTML/CSS/JS
+- Frameworks: WinForms, manual web dev (no plugins)
+- Tools: Git, VS Code, Linux (Fedora)
 
+## Interests
 
-
-
+- Systems optimization 
+- Cross-platform development 
 
