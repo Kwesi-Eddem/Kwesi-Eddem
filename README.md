@@ -10,12 +10,11 @@ Systems architect... has a nice ring to it.
 ## Interests
 
 - Backend development
-- Systems design
-- Infrastructure
+- Cloud infrastructure
 - Automation
-- Resource optimization
+- Distributed systems design
 - Mobile & Desktop application development
-- Railway infrastructure
+- Systems architecture
 
 ## Tools & Languages (still learning)
 
@@ -25,12 +24,7 @@ Systems architect... has a nice ring to it.
 
 - ...I'll let you know when I cook something worthwhile.
 
-## Learning
 
-- Systems architecture
-- Distributed systems
-- CI/CD pipelines
-- Cloud infrastructure
 
 
 
