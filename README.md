@@ -1,5 +1,5 @@
 ## 
-* Focused on systems, architecture, and reliability. Currently enrolled in the ALX Software Engineering program.
+* Focused on systems, architecture, and reliability..
 
 ##
 * Systems optimization 
